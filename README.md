@@ -1,21 +1,21 @@
-# PhoneShop
-> This is a web site inspired by e-commerce web sites.
-> Web site link [_here_](https://phoneshop-eosin.vercel.app/).
+# Do.it
+> This web site was inspired to make a good list of what you have to do!
+> Web site link [_here_](https://do-it-two.vercel.app/).
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies and Libs Used](#technologies-and-libs-used)
 * [Features](#features)
 * [Project Status](#project-status)
-* [Coming Features](#coming-features)
+* [Features Ideas](#features-ideas)
 * [Contact](#contact)
 
 
 
 ## General Information
-- It is a web site to pratice my skils skills and stylization. 
+- It is a web site to mark and list your tasks.
 - This web site was made with react, and in this web site was designed on figma.
-- In this web site you're gonna be able to simulate a shopping phone!
+- In this web site you're gonna be able to create your task card to get done!
 
 
 ## Technologies and Libs Used
@@ -25,24 +25,18 @@
 - React-hook-form
 - React-router-dom
 - Yup
-- Context-API
 - Axios
 - Material-UI
 
 
 ## Features
 Features avaible:
-- Add and remove phones and notebooks to/from cart and mutate the quantity of these.
+- Add and get done cards with your tasks.
 
 
 ## Project Status
 Project is: _in progress_
 
-
-## Features Ideas
-
-Ideas:
-- Let the web site more realistic like a e-commerce.
 
 
 ## Contact
